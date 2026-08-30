@@ -1,26 +1,34 @@
-<h1 align="center">Hi, I'm Isaac 👋🏼</h1>
+## Nice to have you here
+
+I'm a developer passionate about creating applications that makes people's lifes better.
+
+I'm coding since 2018 and doing it professionaly since 2021.
+
+I mainly build web and mobile products, always aiming on clean and maintainable code, scalable architecture, and good UI/UX.
+
+I work mainly with **TypeScript** (React, Next.js, NestJS), **Dart** (Flutter), and **Python** (Django).
+
+Exploring Golang when I'm not focused on work.
+
+Daily driving Fedora Linux and Gnome.
+
 <p align="center">
-  Fullstack Developer based in Brazil.
+  <a href="https://isaacmuniz.pro"><img src="assets/portfolio-button.svg" alt="Blog & Portfolio" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/isaac-muniz"><img src="assets/linkedin-button.svg" alt="LinkedIn" height="40" /></a>
 </p>
+
 <p align="center">
-  <a href="https://isaacmuniz.pro"><img src="https://img.shields.io/badge/blog%20%26%20portfolio-isaacmuniz.pro-FD8540?style=flat-square" /></a>
-  <a href="https://linkedin.com/in/isaac-muniz"><img src="https://img.shields.io/badge/linkedin-isaac--muniz-0A66C2?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
 </p>
-
----
-
-### About me
-
-I've been coding since **2018**, and working professionally since **2021**.
-
-I build web and mobile products end to end, from architecture to UI, with a focus on clean, maintainable, scalable code and user experience.
-
-### Tech I work with
-
-**Frontend:** <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-
-**Backend:** <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> 
-
-**Mobile:** <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-
-**Tools:** <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
