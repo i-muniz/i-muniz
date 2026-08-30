@@ -8,9 +8,7 @@ I mainly build web and mobile products, always aiming on clean and maintainable 
 
 I work mainly with **TypeScript** (React, Next.js, NestJS), **Dart** (Flutter), and **Python** (Django).
 
-Exploring Golang when I'm not focused on work.
-
-Daily driving Fedora Linux and Gnome.
+Learning Golang and daily driving Fedora Linux and Gnome.
 
 <p align="center">
   <a href="https://isaacmuniz.pro"><img src="assets/portfolio-button.svg" alt="Blog & Portfolio" height="40" /></a>
