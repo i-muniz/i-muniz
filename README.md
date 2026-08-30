@@ -4,8 +4,6 @@ I'm a developer passionate about creating applications that make people's lives 
 
 I've been coding since 2018 and doing it professionally since 2021.
 
-I mainly build web and mobile products, always aiming for clean and maintainable code, scalable architecture, and good UI/UX.
-
 I work mainly with **TypeScript** (React, Next.js, NestJS), **Dart** (Flutter), and **Python** (Django).
 
 Learning Golang and daily driving Fedora Linux and Gnome.
