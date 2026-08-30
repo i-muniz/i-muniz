@@ -1,10 +1,10 @@
 ## Nice to have you here
 
-I'm a developer passionate about creating applications that makes people's lifes better.
+I'm a developer passionate about creating applications that make people's lives better.
 
-I'm coding since 2018 and doing it professionaly since 2021.
+I've been coding since 2018 and doing it professionally since 2021.
 
-I mainly build web and mobile products, always aiming on clean and maintainable code, scalable architecture, and good UI/UX.
+I mainly build web and mobile products, always aiming for clean and maintainable code, scalable architecture, and good UI/UX.
 
 I work mainly with **TypeScript** (React, Next.js, NestJS), **Dart** (Flutter), and **Python** (Django).
 
