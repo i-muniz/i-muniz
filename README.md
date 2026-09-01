@@ -4,7 +4,7 @@ I'm a developer passionate about creating applications that make people's lives 
 
 I've been coding since 2018 and doing it professionally since 2021.
 
-I work mainly with **TypeScript** (React, Next.js, NestJS), **Dart** (Flutter), and **Python** (Django).
+I work mainly with **TypeScript** (React, Next.js, NestJS), and **Dart** (Flutter).
 
 Learning Golang and daily driving Fedora Linux and Gnome.
 
