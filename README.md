@@ -1,8 +1,6 @@
-## Nice to have you here
+## Making life easier through code
 
-I'm a developer passionate about creating applications that make people's lives better.
-
-I've been coding since 2018 and doing it professionally since 2021.
+I like building things that make someone's day a little easier.
 
 I work mainly with **TypeScript** (React, Next.js, NestJS), and **Dart** (Flutter).
 
