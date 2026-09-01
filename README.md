@@ -6,7 +6,7 @@ I've been coding since 2018 and doing it professionally since 2021.
 
 I work mainly with **TypeScript** (React, Next.js, NestJS), and **Dart** (Flutter).
 
-Learning Golang and daily driving Fedora Linux and Gnome.
+Learning **Golang** and daily driving Fedora Linux and Gnome.
 
 <p align="center">
   <a href="https://isaacmuniz.pro"><img src="assets/portfolio-button.svg" alt="Blog & Portfolio" height="40" /></a>
